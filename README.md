@@ -16,6 +16,10 @@ I experienced one virtual exhibition over lockdown. There was a reason why that 
 
 ### What role does computing play in working towards a more accessible kind of art? 🖥
 
-It is important to note that creating art that is accessible to everyone is very difficult to do, exclusitory factors can be found everywhere. However, in this instance of people who are not able to leave the house to see art, my response is to turn to the physical (as suggested in the text). 
+It is important to note that creating art that is accessible to everyone is very difficult to do, exclusitory factors can be found everywhere. However, in this instance of people who are not able to leave the house to see art, my response is to turn to the physical act of transporting the art to these people (as suggested in the text) or to use technology as a way to bring art to a wider audience. In the paper *Digital Games and Escapism* by Gordon Calleja, he compares visiting these virtual 'lands' to migration:
+
+> 'When people move from one country to another, both countries change.'
+
+Referincong the virtual world as an exchange between us exploring it and it then impacting us in turn. By being more mindful of what we make in the virtual world, we will in turn influence ourselves in a positive manner. Computing has the ability to create an art which takes all people into consideration. 
 
 
