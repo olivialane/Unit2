@@ -22,4 +22,12 @@ It is important to note that creating art that is accessible to everyone is very
 
 Referincong the virtual world as an exchange between us exploring it and it then impacting us in turn. By being more mindful of what we make in the virtual world, we will in turn influence ourselves in a positive manner. Computing has the ability to create an art which takes all people into consideration. 
 
+### My suggestions for an engaging experience of virtual art. 
+
+We don't need more art which is 'interpreted for the virtual world'. We do however, need art formulated specifically for computers, as a way to include the people left behind by the physical art world. In the virtual world, we have the power to defy the rules of the real world, gravity is no longer a tie, neither is scale or 
+
+
+
+
+
 
