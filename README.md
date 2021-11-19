@@ -22,11 +22,21 @@ It is important to note that creating art that is accessible to everyone is very
 
 Referincong the virtual world as an exchange between us exploring it and it then impacting us in turn. By being more mindful of what we make in the virtual world, we will in turn influence ourselves in a positive manner. Computing has the ability to create an art which takes all people into consideration. 
 
+### On a personal note...
+
+While not an avid gamer, over the past year, I have used a few game apps as a means of escapism. Choosing primarily very beautiful games to play, with imersive scores shifted the way that I saw game design, from something to suit teenage boys who to something that could make a real contribution to the art world. On top of this, listening to reviews on games written poetically by art critic Gabrielle de la Puente re itterated to me the importance the digital world to people who have stopped being able to experience as much of the physical world. 
+
 ### My suggestions for an engaging experience of virtual art. 
 
 We don't need more art which is 'interpreted for the virtual world'. We do however, need art formulated specifically for computers, as a way to include the people left behind by the physical art world. In the virtual world, we have the power to defy the rules of the real world as gravity and scale are no longer a tie. We need to create a landscape focused on wonder, we could explore type through a 3D world that lets us engineer letter forms like buildings or fly through gardens of sculptures or walk inside of ceramics. 
 
-Through this week's experiments and research into ARDUINO, I began to think about the potential for a more immersive experience through hardware which could change the external elements of the digital viewing. I was really inspired by Tigress' work which used scents as a way to design an 
+Through this week's experiments and research into ARDUINO, I began to think about the potential for a more immersive experience through hardware which could change the external elements of the digital viewing. Through research about motors, LED lights and noise sensors, I began to think about how we can expand our field of experience to beyond our screen in our own homes. 
+
+
+### Known bugs to this way of thinking...
+
+Not everyone is able to afford technology in their lives, people without wifi access can feel disconnected and this is not something which is condusive to an accessible community. This model is still exclusive to people who can not afford a computer, however can be made more accessible through donation schemes and the creating of cheaper technologies which don't require the *newest* versions of technology. In a world full of e-waste, updating our current way of computing needs to be done in an environmentally ethical way. 
+
 
 
 
