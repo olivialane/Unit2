@@ -24,7 +24,9 @@ Referincong the virtual world as an exchange between us exploring it and it then
 
 ### My suggestions for an engaging experience of virtual art. 
 
-We don't need more art which is 'interpreted for the virtual world'. We do however, need art formulated specifically for computers, as a way to include the people left behind by the physical art world. In the virtual world, we have the power to defy the rules of the real world, gravity is no longer a tie, neither is scale or 
+We don't need more art which is 'interpreted for the virtual world'. We do however, need art formulated specifically for computers, as a way to include the people left behind by the physical art world. In the virtual world, we have the power to defy the rules of the real world as gravity and scale are no longer a tie. We need to create a landscape focused on wonder, we could explore type through a 3D world that lets us engineer letter forms like buildings or fly through gardens of sculptures or walk inside of ceramics. 
+
+Through this week's experiments and research into ARDUINO, I began to think about the potential for a more immersive experience through hardware which could change the external elements of the digital viewing. I was really inspired by Tigress' work which used scents as a way to design an 
 
 
 
