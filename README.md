@@ -34,6 +34,8 @@ We don't need more art which is 'interpreted for the virtual world'. We do howev
 
 Through this week's experiments and research into ARDUINO, I began to think about the potential for a more immersive experience through hardware which could change the external elements of the digital viewing. Through research about motors, LED lights and noise sensors, I began to think about how we can expand our field of experience to beyond our screen in our own homes. 
 
+![ezgif com-crop](https://user-images.githubusercontent.com/94573712/142637889-0975adc6-1bd0-4116-89d0-5b0f669a5eb7.gif)
+
 
 ### Known bugs to this way of thinking...
 
