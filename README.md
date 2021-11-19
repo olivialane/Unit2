@@ -10,7 +10,7 @@ Museum closures through lockdown prevented the public from developing a connecti
 >> 👯‍♂️ *Gabrielle de la Pointe*
 
 
-### What was so wrong with the way that art galleries displayed art over lockdown? 
+### What was so wrong with the way that art galleries displayed art over lockdown? 🔒
 
 I experienced one virtual exhibition over lockdown. There was a reason why that number isn't higher. In my opinion, art that was made to be seen in person by the human eye just does not translate well to the virtual world. Art in the virtual realm should be tailored to the medium, rather than attempting to stuff Piccasso paintings into the virtual box via a video stream. For a community of inovators, our response to exhibiting art during a pandemic was dissappointing.
 
@@ -22,9 +22,11 @@ It is important to note that creating art that is accessible to everyone is very
 
 Referincong the virtual world as an exchange between us exploring it and it then impacting us in turn. By being more mindful of what we make in the virtual world, we will in turn influence ourselves in a positive manner. Computing has the ability to create an art which takes all people into consideration. 
 
-### On a personal note...
+### On a personal note... 💁‍♀️
 
 While not an avid gamer, over the past year, I have used a few game apps as a means of escapism. Choosing primarily very beautiful games to play, with imersive scores shifted the way that I saw game design, from something to suit teenage boys who to something that could make a real contribution to the art world. On top of this, listening to reviews on games written poetically by art critic Gabrielle de la Puente re itterated to me the importance the digital world to people who have stopped being able to experience as much of the physical world. 
+
+![](https://media.giphy.com/media/TgsqA3lVDiFBeEWyz8/giphy.gif)
 
 ### My suggestions for an engaging experience of virtual art. 
 
